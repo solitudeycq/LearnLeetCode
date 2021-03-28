@@ -1,6 +1,6 @@
 package com.solitudeycq.leetcode.二叉树.填充每个节点的下一个右侧节点指针;
 
-import com.solitudeycq.leetcode.二叉树.common.Node;
+import com.solitudeycq.leetcode.common.Node;
 
 import java.util.ArrayList;
 import java.util.List;

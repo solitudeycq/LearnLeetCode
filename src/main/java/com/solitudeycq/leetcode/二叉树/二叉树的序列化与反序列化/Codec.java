@@ -1,6 +1,7 @@
 package com.solitudeycq.leetcode.二叉树.二叉树的序列化与反序列化;
 
-import com.solitudeycq.leetcode.二叉树.common.TreeNode;
+
+import com.solitudeycq.leetcode.common.TreeNode;
 
 import java.util.Arrays;
 import java.util.LinkedList;

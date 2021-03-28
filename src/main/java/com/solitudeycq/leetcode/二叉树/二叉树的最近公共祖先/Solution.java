@@ -1,6 +1,7 @@
 package com.solitudeycq.leetcode.二叉树.二叉树的最近公共祖先;
 
-import com.solitudeycq.leetcode.二叉树.common.TreeNode;
+
+import com.solitudeycq.leetcode.common.TreeNode;
 
 class Solution {
     /**

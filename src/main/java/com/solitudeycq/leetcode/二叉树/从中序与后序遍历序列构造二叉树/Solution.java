@@ -1,7 +1,7 @@
 package com.solitudeycq.leetcode.二叉树.从中序与后序遍历序列构造二叉树;
 
-import com.solitudeycq.leetcode.二叉树.common.TreeNode;
 
+import com.solitudeycq.leetcode.common.TreeNode;
 
 class Solution {
     public TreeNode buildTree(int[] inorder, int[] postorder) {

@@ -1,4 +1,4 @@
-package com.solitudeycq.leetcode.二叉树.common;
+package com.solitudeycq.leetcode.common;
 
 public class Node {
     public int val;
